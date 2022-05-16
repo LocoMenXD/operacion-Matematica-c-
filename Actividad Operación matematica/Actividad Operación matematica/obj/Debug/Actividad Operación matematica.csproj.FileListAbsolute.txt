@@ -1,0 +1,14 @@
+C:\Users\iqqlabs\source\repos\Actividad Operación matematica\Actividad Operación matematica\bin\Debug\Actividad Operación matematica.exe.config
+C:\Users\iqqlabs\source\repos\Actividad Operación matematica\Actividad Operación matematica\bin\Debug\Actividad Operación matematica.exe
+C:\Users\iqqlabs\source\repos\Actividad Operación matematica\Actividad Operación matematica\bin\Debug\Actividad Operación matematica.pdb
+C:\Users\iqqlabs\source\repos\Actividad Operación matematica\Actividad Operación matematica\obj\Debug\Actividad Operación matematica.csprojAssemblyReference.cache
+C:\Users\iqqlabs\source\repos\Actividad Operación matematica\Actividad Operación matematica\obj\Debug\Actividad Operación matematica.csproj.CoreCompileInputs.cache
+C:\Users\iqqlabs\source\repos\Actividad Operación matematica\Actividad Operación matematica\obj\Debug\Actividad Operación matematica.exe
+C:\Users\iqqlabs\source\repos\Actividad Operación matematica\Actividad Operación matematica\obj\Debug\Actividad Operación matematica.pdb
+C:\Users\NakamaElLocoManXD\Downloads\Actividad Operación matematica\Actividad Operación matematica\Actividad Operación matematica\bin\Debug\Actividad Operación matematica.exe.config
+C:\Users\NakamaElLocoManXD\Downloads\Actividad Operación matematica\Actividad Operación matematica\Actividad Operación matematica\bin\Debug\Actividad Operación matematica.exe
+C:\Users\NakamaElLocoManXD\Downloads\Actividad Operación matematica\Actividad Operación matematica\Actividad Operación matematica\bin\Debug\Actividad Operación matematica.pdb
+C:\Users\NakamaElLocoManXD\Downloads\Actividad Operación matematica\Actividad Operación matematica\Actividad Operación matematica\obj\Debug\Actividad Operación matematica.csproj.AssemblyReference.cache
+C:\Users\NakamaElLocoManXD\Downloads\Actividad Operación matematica\Actividad Operación matematica\Actividad Operación matematica\obj\Debug\Actividad Operación matematica.csproj.CoreCompileInputs.cache
+C:\Users\NakamaElLocoManXD\Downloads\Actividad Operación matematica\Actividad Operación matematica\Actividad Operación matematica\obj\Debug\Actividad Operación matematica.exe
+C:\Users\NakamaElLocoManXD\Downloads\Actividad Operación matematica\Actividad Operación matematica\Actividad Operación matematica\obj\Debug\Actividad Operación matematica.pdb
